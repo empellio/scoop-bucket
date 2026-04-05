@@ -1,12 +1,12 @@
 {
-  "version": "0.1.8",
+  "version": "0.2.0",
   "description": "Oxmgr is a lightweight, cross-platform process manager.",
   "homepage": "https://github.com/Vladimir-Urik/OxMgr",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Vladimir-Urik/OxMgr/releases/download/v0.1.8/oxmgr-v0.1.8-x86_64-pc-windows-msvc.zip",
-      "hash": "a5c3b5ba2755bf026dd208aa5b8d9e6bacea778e06f5aff64abdd2cdcd409b1f"
+      "url": "https://github.com/Vladimir-Urik/OxMgr/releases/download/v0.2.0/oxmgr-v0.2.0-x86_64-pc-windows-msvc.zip",
+      "hash": "d2ca326a2b05c57304ac0f149ce780371adc6a58e2acce7aa846b02cc48a7cfc"
     }
   },
   "bin": "oxmgr.exe",
